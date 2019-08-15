@@ -2,7 +2,7 @@ def parrot'()'
   puts "Squawk!"
 end
 
-def return_parrot
+def parrot
   "Squawk!"
 end
 
