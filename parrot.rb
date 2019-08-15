@@ -1,4 +1,4 @@
-def parrot('$stdout')
+def parrot('')
   puts "Squawk!"
 end
 
