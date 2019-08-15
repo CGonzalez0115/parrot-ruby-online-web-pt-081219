@@ -1,3 +1,3 @@
 def parrot(phrase)
-  puts "Squawk!"
+  :puts "Squawk!"
 end
