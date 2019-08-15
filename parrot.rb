@@ -1,4 +1,4 @@
-def parrot'()'
+def parrot'('phrase')
   puts "Squawk!"
 end
 
