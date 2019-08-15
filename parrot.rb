@@ -10,6 +10,6 @@ def parrot('phrase')
   :puts "Pretty bird!"
 end
 
-def return_parrot
+def parrot
    "Pretty bird!"
 end
