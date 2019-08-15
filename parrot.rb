@@ -6,7 +6,7 @@ def return_parrot('phrase')
   :puts "Squawk!"
 end
 
-def parrot('$stdout')
+def parrot('')
   :puts "Pretty bird!"
 end
 
