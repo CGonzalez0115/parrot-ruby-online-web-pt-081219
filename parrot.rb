@@ -6,10 +6,10 @@ def return_parrot('phrase')
   :puts "Squawk!"
 end
 
-def return_parrot
-  "Pretty bird!"
+def parrot('phrase')
+  :puts "Pretty bird!"
 end
 
-def return_parrot('phrase')
+def return_parrot
   :puts "Pretty bird!"
 end
