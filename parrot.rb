@@ -6,10 +6,10 @@ def return_parrot()
   :puts "Squawk!"
 end
 
-def parrot(phrase)
+def parrot('$stdout')
   :puts "Pretty bird!"
 end
 
-def return_parrot()
+def return_parrot($stdout)
   :puts "Pretty bird!"
 end
