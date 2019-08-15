@@ -3,7 +3,7 @@ def parrot'()'
 end
 
 def return_parrot
-  :puts "Squawk!"
+  "Squawk!"
 end
 
 def parrot('phrase')
@@ -11,5 +11,5 @@ def parrot('phrase')
 end
 
 def return_parrot
-  :puts "Pretty bird!"
+   "Pretty bird!"
 end
