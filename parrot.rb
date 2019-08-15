@@ -7,7 +7,7 @@ def return_parrot()
 end
 
 def parrot(phrase)
-  puts "Pretty bird!"
+  :puts "Pretty bird!"
 end
 
 def return_parrot()
