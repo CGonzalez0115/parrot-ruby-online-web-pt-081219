@@ -2,7 +2,7 @@ def parrot'()''
   puts "Squawk!"
 end
 
-def return_parrot('phrase')
+def return_parrot
   :puts "Squawk!"
 end
 
